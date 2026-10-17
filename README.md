@@ -31,3 +31,11 @@ dotnet run
 |---|---|
 | Language | C# (.NET) |
 | Tooling | Visual Studio solution (`.slnx`) |
+
+---
+
+## License
+
+Released under the [MIT License](LICENSE).
+
+Copyright (c) 2026 Mohamed Aziz Madhbouh.
